@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+body { 
+    color: aliceblue;
+
+    background: url(/829055.png) no-repeat center center fixed; 
+    font-family: 'DotGothic16', sans-serif;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .form-group
+  {
+      opacity:0.7;
+  }
+  #emailHelp
+  {
+      font-size: 20px;
+      color: white;
+  }
